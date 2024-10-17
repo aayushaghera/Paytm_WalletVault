@@ -37,8 +37,24 @@ Make sure you have these installed:
 
 ### 🛠️ How to Set It Up
 
-1. **Get the Code:**
+1. **Get the Code:** 
+
+   🖥️ Run this command to clone the repository:
 
    ```bash
-   cd Paytm
+   https://github.com/aayushaghera/Paytm_WalletVault.git
+   
+2. **⚙️ Install backend dependencies:**
+   ```bash
+   cd backend
+   npm install
+
+3. **⚙️Install frontend dependencies**:
+
+   ```bash
+   cd ../frontend
+   npm install
+   ```   
+   
+
 
