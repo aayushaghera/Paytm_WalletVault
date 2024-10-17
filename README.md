@@ -1,6 +1,6 @@
-# 💳 Payments App
+# 💳 Paytm_WalletVault
 
-Welcome to the **Payments App**! 🎉 This project is a safe place for sending money and managing your account.  
+Welcome to the **Paytm_WalletVault**! 🎉 This project is a safe place for sending money and managing your account.  
 ---
 
 ## ✨ Features
